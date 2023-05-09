@@ -173,7 +173,7 @@ class _HomePageState extends State<HomePage> {
                       _renderChatListWidget(
                         store.homeHistoryList,
                       ),
-                    _renderTitle('Chat Model'),
+                    _renderTitle('功能列表'),
                     _renderChatModelListWidget(),
                   ],
                 ),

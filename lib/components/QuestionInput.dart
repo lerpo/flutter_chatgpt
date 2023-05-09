@@ -252,7 +252,7 @@ class _QuestionInputState extends State<QuestionInput> {
                       minLines: 1,
                       maxLines: 2,
                       decoration: const InputDecoration.collapsed(
-                        hintText: 'Enter your message',
+                        hintText: '请输入会话内容',
                       ),
                       autofocus: widget.autofocus,
                       style: const TextStyle(
